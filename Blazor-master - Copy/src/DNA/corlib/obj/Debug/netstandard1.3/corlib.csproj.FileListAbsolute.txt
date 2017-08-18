@@ -1,6 +1,0 @@
-C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\DNA\corlib\bin\Debug\netstandard1.3\corlib.deps.json
-C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\DNA\corlib\bin\Debug\netstandard1.3\corlib.dll
-C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\DNA\corlib\bin\Debug\netstandard1.3\corlib.pdb
-C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\DNA\corlib\obj\Debug\netstandard1.3\corlib.csproj.CoreCompileInputs.cache
-C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\DNA\corlib\obj\Debug\netstandard1.3\corlib.dll
-C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\DNA\corlib\obj\Debug\netstandard1.3\corlib.pdb
