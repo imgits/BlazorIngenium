@@ -1,0 +1,9 @@
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Runtime\bin\Debug\netstandard1.3\Blazor.Runtime.deps.json
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Runtime\bin\Debug\netstandard1.3\Blazor.Runtime.dll
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Runtime\bin\Debug\netstandard1.3\Blazor.Runtime.pdb
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Runtime\obj\Debug\netstandard1.3\Blazor.Runtime.csprojResolveAssemblyReference.cache
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Runtime\obj\Debug\netstandard1.3\Blazor.Runtime.csproj.CoreCompileInputs.cache
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Runtime\obj\Debug\netstandard1.3\Blazor.Runtime.AssemblyInfo.cs
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Runtime\obj\Debug\netstandard1.3\Blazor.Runtime.dll
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Runtime\obj\Debug\netstandard1.3\Blazor.Runtime.pdb
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Runtime\obj\Debug\netstandard1.3\Blazor.Runtime.AssemblyInfoInputs.cache

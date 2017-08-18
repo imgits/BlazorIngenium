@@ -1,0 +1,9 @@
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\AngleSharp\bin\Debug\netstandard1.3\Blazor.AngleSharp.deps.json
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\AngleSharp\bin\Debug\netstandard1.3\Blazor.AngleSharp.dll
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\AngleSharp\bin\Debug\netstandard1.3\Blazor.AngleSharp.pdb
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\AngleSharp\obj\Debug\netstandard1.3\AngleSharp.Core.csprojResolveAssemblyReference.cache
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\AngleSharp\obj\Debug\netstandard1.3\AngleSharp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\AngleSharp\obj\Debug\netstandard1.3\AngleSharp.Core.AssemblyInfo.cs
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\AngleSharp\obj\Debug\netstandard1.3\Blazor.AngleSharp.dll
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\AngleSharp\obj\Debug\netstandard1.3\Blazor.AngleSharp.pdb
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\AngleSharp\obj\Debug\netstandard1.3\AngleSharp.Core.AssemblyInfoInputs.cache

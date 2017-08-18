@@ -1,0 +1,56 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v1.3": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v1.3": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Dainis\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Dainis\\Downloads\\Blazor-master\\Blazor-master\\src\\DNA\\corlib\\corlib.csproj",
+      "projectName": "corlib",
+      "projectPath": "C:\\Users\\Dainis\\Downloads\\Blazor-master\\Blazor-master\\src\\DNA\\corlib\\corlib.csproj",
+      "packagesPath": "C:\\Users\\Dainis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dainis\\Downloads\\Blazor-master\\Blazor-master\\src\\DNA\\corlib\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Dainis\\Downloads\\Blazor-master\\Blazor-master\\NuGet.Config",
+        "C:\\Users\\Dainis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard1.3"
+      ],
+      "sources": {
+        "C:\\Users\\Dainis\\Downloads\\Blazor-master\\Blazor-master\\artifacts": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard1.3": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard1.3": {}
+    }
+  }
+}

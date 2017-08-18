@@ -1,0 +1,15 @@
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\bin\Debug\netcoreapp1.0\Blazor.Compiler.deps.json
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\bin\Debug\netcoreapp1.0\Blazor.Compiler.runtimeconfig.json
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\bin\Debug\netcoreapp1.0\Blazor.Compiler.runtimeconfig.dev.json
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\bin\Debug\netcoreapp1.0\Blazor.Compiler.dll
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\bin\Debug\netcoreapp1.0\Blazor.Compiler.pdb
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\bin\Debug\netcoreapp1.0\Blazor.AngleSharp.dll
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\bin\Debug\netcoreapp1.0\Blazor.Runtime.dll
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\bin\Debug\netcoreapp1.0\Blazor.AngleSharp.pdb
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\bin\Debug\netcoreapp1.0\Blazor.Runtime.pdb
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\obj\Debug\netcoreapp1.0\Blazor.Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\obj\Debug\netcoreapp1.0\Blazor.Compiler.csproj.CoreCompileInputs.cache
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\obj\Debug\netcoreapp1.0\Blazor.Compiler.AssemblyInfo.cs
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\obj\Debug\netcoreapp1.0\Blazor.Compiler.dll
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\obj\Debug\netcoreapp1.0\Blazor.Compiler.pdb
+C:\Users\Dainis\Downloads\Blazor-master\Blazor-master\src\Blazor.Compiler\obj\Debug\netcoreapp1.0\Blazor.Compiler.AssemblyInfoInputs.cache
